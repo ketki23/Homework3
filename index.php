@@ -125,7 +125,7 @@ $obj->substr_count();
 
 	     public function substr(){
 	     echo '<h1>substring function</h1>';
-	     echo substr("web sys development");
+	     echo substr("web sys development", 12);
 	     echo '<hr>';
 	     }
 
